@@ -1,0 +1,21 @@
+Code Challenge by Suhan Liu
+
+---------------------------------------------------------------------
+Wolfram Language ver. Code
+
+I put all Wolfram Language ver. codes in the file "Code Challeng.nb". 
+I also inlude some test cases in it. The pseudo code for Challenge 4
+and Challenge 5 are right before the codes for those two problems,
+respectively.
+
+
+
+---------------------------------------------------------------------
+Java code
+
+I include all four challenge codes in the folder. I also created some 
+testcases so you can run them one by one. One thing has to be mentioned 
+is that, for Challenge 3, I wrote another class called "methodCls" 
+including three functions to test "gatherBy" function in "Challenge 3" 
+class.
+
